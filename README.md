@@ -1,4 +1,1 @@
-escueladegeeks.github.io
-========================
-
-Ejercicios hechos con Khan Academy Excercise Framework
+Repositorio de la pagina [escueladegeeks.com](www.escueladegeeks.com)

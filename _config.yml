@@ -1,0 +1,19 @@
+title : Escuela de Geeks
+description : Escuela de Geeks
+author :
+  name :          Daniel Cazzulino
+  alias:          kzu
+  email :         hola@escueladegeeks.com
+  github :        kzu
+  twitter :       kzu
+  stackoverflow:  24684/kzu
+  linkedin:       in/danielcazzulino
+  google:         +DanielCazzulino
+
+permalink:        /:title.html 
+url:              http://www.escueladegeeks.com
+baseurl:          ""
+
+exclude:      [ "README.md", "CNAME", ".gitattributes", ".gitignore" ]
+port:         3000
+host:         127.0.0.1
